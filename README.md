@@ -1,0 +1,2 @@
+# sanat
+my first program
